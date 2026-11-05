@@ -1,0 +1,10 @@
+version: 1
+user: "davidcollom"
+lists:
+  - slug: "metrics-exporters" # taken from /stars/<user>/lists/<slug>
+    title: "Awesome Metrics Exporters"
+    tagline: "Exporters that get Prometheus metrics out of everything."
+    min_stars: 0
+    stale_months: 0
+    badges:
+      - "https://img.shields.io/badge/awesome-yes-brightgreen"
