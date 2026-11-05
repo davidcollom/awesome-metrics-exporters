@@ -11,7 +11,7 @@
 ### Repositories
   
 - [prometheus-community/bind\_exporter](https://github.com/prometheus-community/bind_exporter) — ⭐ 355 · Apache-2.0 — Prometheus exporter for BIND
-- [prometheus/blackbox\_exporter](https://github.com/prometheus/blackbox_exporter) — ⭐ 5,931 · Apache-2.0 — Blackbox prober exporter
+- [prometheus/blackbox\_exporter](https://github.com/prometheus/blackbox_exporter) — ⭐ 5,932 · Apache-2.0 — Blackbox prober exporter
 - [thought-machine/prometheus-cardinality-exporter](https://github.com/thought-machine/prometheus-cardinality-exporter) — ⭐ 50 · Apache-2.0 — Metric cardinality exporter for Prometheus
 - [seznam/slo-exporter](https://github.com/seznam/slo-exporter) — ⭐ 190 · Apache-2.0 — Slo-exporter computes standardized SLI and SLO metrics based on events coming from various data sources.
 - [simonswine/cloud-billing-exporter](https://github.com/simonswine/cloud-billing-exporter) — ⭐ 8 — Cloud billing exporter for AWS and GCP
