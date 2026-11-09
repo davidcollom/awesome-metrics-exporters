@@ -11,22 +11,22 @@
 ### Repositories
   
 - [prometheus-community/bind\_exporter](https://github.com/prometheus-community/bind_exporter) — ⭐ 355 · Apache-2.0 — Prometheus exporter for BIND
-- [prometheus/blackbox\_exporter](https://github.com/prometheus/blackbox_exporter) — ⭐ 5,932 · Apache-2.0 — Blackbox prober exporter
+- [prometheus/blackbox\_exporter](https://github.com/prometheus/blackbox_exporter) — ⭐ 5,938 · Apache-2.0 — Blackbox prober exporter
 - [thought-machine/prometheus-cardinality-exporter](https://github.com/thought-machine/prometheus-cardinality-exporter) — ⭐ 50 · Apache-2.0 — Metric cardinality exporter for Prometheus
 - [seznam/slo-exporter](https://github.com/seznam/slo-exporter) — ⭐ 190 · Apache-2.0 — Slo-exporter computes standardized SLI and SLO metrics based on events coming from various data sources.
 - [simonswine/cloud-billing-exporter](https://github.com/simonswine/cloud-billing-exporter) — ⭐ 8 — Cloud billing exporter for AWS and GCP
 - [prometheus-community/stackdriver\_exporter](https://github.com/prometheus-community/stackdriver_exporter) — ⭐ 298 · Apache-2.0 — Google Stackdriver Prometheus exporter
-- [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) — ⭐ 2,193 · Apache-2.0 — SNMP Exporter for Prometheus
+- [prometheus/snmp\_exporter](https://github.com/prometheus/snmp_exporter) — ⭐ 2,196 · Apache-2.0 — SNMP Exporter for Prometheus
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) — ⭐ 7,758 · Apache-2.0 — Use Prometheus to monitor Kubernetes and applications running on Kubernetes
-- [jetstack/version-checker](https://github.com/jetstack/version-checker) — ⭐ 777 · Apache-2.0 — Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
+- [jetstack/version-checker](https://github.com/jetstack/version-checker) — ⭐ 778 · Apache-2.0 — Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
 - [brentahughes/unifi\_exporter](https://github.com/brentahughes/unifi_exporter) — ⭐ 1 · MIT — Prometheus exporter that exposes metrics from a Ubiquiti UniFi Controller and UniFi devices. MIT Licensed.
 - [monzo/calico-accountant](https://github.com/monzo/calico-accountant) — ⭐ 91 · MIT — A Prometheus exporter for Calico policy packet counts
 - [m-lab/gcs-exporter](https://github.com/m-lab/gcs-exporter) — ⭐ 1 · Apache-2.0 — A Prometheus exporter that reports on recent archive file stats from M-Lab GCS buckets
 - [zalando-incubator/kube-metrics-adapter](https://github.com/zalando-incubator/kube-metrics-adapter) — ⭐ 541 · MIT — General purpose metrics adapter for Kubernetes HPA metrics
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) — ⭐ 6,235 · Apache-2.0 — Add-on agent to generate and expose cluster-level metrics.
+- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) — ⭐ 6,236 · Apache-2.0 — Add-on agent to generate and expose cluster-level metrics.
 - [mr-karan/store-exporter](https://github.com/mr-karan/store-exporter) — ⭐ 34 · MIT — Utility to extract metrics from arbitary data stores in Prometheus format
 - [google/truestreet](https://github.com/google/truestreet) — ⭐ 45 — Prometheus adapter for Google Cloud Spanner
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) — ⭐ 8,242 — 🚨 Collection of Prometheus alerting rules
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) — ⭐ 8,250 — 🚨 Collection of Prometheus alerting rules
 - [warpnet/awesome-prometheus](https://github.com/warpnet/awesome-prometheus) — ⭐ 1,872 · CC0-1.0 — A curated list of awesome Prometheus resources, projects and tools.
 - [welbymcroberts/hub3\_exporter](https://github.com/welbymcroberts/hub3_exporter) — ⭐ 4 · Apache-2.0 — Prometheus exporter for Virgin Media \(and presumably other Liberty Global\) 'Hub3' cable modem statistics
 - [ManagedKube/kubernetes-cost-agent](https://github.com/ManagedKube/kubernetes-cost-agent) — ⭐ 13 — Gathers Kubernetes cost information for a cluster
@@ -34,8 +34,8 @@
 - [discourse/prometheus\_exporter](https://github.com/discourse/prometheus_exporter) — ⭐ 585 · MIT — A framework for collecting and aggregating prometheus metrics
 - [dundee/disk\_usage\_exporter](https://github.com/dundee/disk_usage_exporter) — ⭐ 97 · MIT — Disk Usage Prometheus Exporter
 - [eslam-gomaa/kptop](https://github.com/eslam-gomaa/kptop) — ⭐ 279 · GPL-3.0 — A Python tool that offers beautiful CLI monitoring based on Prometheus metrics, with Kubernetes integration through PodPortForward
-- [grafana/mimir](https://github.com/grafana/mimir) — ⭐ 5,275 · AGPL-3.0 — Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) — ⭐ 32,534 — SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate \(in SigNoz Cloud\) it helps you build more resilient apps.
+- [grafana/mimir](https://github.com/grafana/mimir) — ⭐ 5,277 · AGPL-3.0 — Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) — ⭐ 32,554 — SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate \(in SigNoz Cloud\) it helps you build more resilient apps.
   
 ---
 *Generated by [awesomegen](https://github.com/davidcollom/awesomegen).*
